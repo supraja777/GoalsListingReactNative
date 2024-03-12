@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 1f184b670893c276cdbf1016a9bb39aaad7a128c44b45838ea31d005e11d08f1
+- filename: App.js
+  checksum: 20e251f70e8ea54ebc9dc3d4c77e95414f93d5ba7e292517c39e9f81cccb1aa5
+- filename: components/GoalItem.js
+  checksum: b7e78ee69e78b3599deca65eb57801ac5c7b89d05c722c2923e2a6d817ef5944
+version: ""
